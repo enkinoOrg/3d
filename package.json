@@ -18,13 +18,13 @@
   },
   "dependencies": {
     "@ducanh2912/next-pwa": "^9.4.0",
-    "@react-three/drei": "^9.80.2",
-    "@react-three/fiber": "^8.13.6",
+    "@react-three/drei": "^9.82.0",
+    "@react-three/fiber": "^8.14.1",
     "glsl-random": "^0.0.5",
     "next": "^13.4.13",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.154.0",
+    "three": "^0.156.1",
     "three-stdlib": "^2.24.2",
     "tunnel-rat": "^0.1.2"
   },
